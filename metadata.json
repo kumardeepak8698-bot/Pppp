@@ -1,0 +1,6 @@
+{
+  "name": "Enclave DPC",
+  "description": "Enclave is a production-grade enterprise sandbox and privacy app inspired by Island, supporting actual Work Profile orchestration, device policy parameters, and security tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
